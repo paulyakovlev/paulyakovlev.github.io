@@ -1,12 +1,12 @@
 body {
-    font-family: "Arial";
-    background-color: lightcoral;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+    background-color: #DBE9EE;
 }
 
 header {
     text-align: center;
-    background-color: rgb(88, 123, 158);
-    padding: 8% 10% 8% 10%;
+    padding: 5% 5% 5% 5%;
+    margin: 1%  100 1% 100%;
     opacity: 5%;
 }
 
@@ -15,18 +15,21 @@ header {
 }
 
 h1 {
+    
+    text-align: center;
     padding: 5px;
 }
 
 .section-title {
-    text-transform: uppercase;
+    color: #466995;
+    text-align: center;
 }
 
 .section {
     text-align: center;
     border-radius: 25px;
-    background-color: lightslategrey;
-    margin: 5% 25% 5% 25%;
+    background-color: #466975;
+    margin: 1% 30% 1% 30%;
     padding: 2% 3% 2% 3%;
 }
 
@@ -34,14 +37,6 @@ ul {
     text-align: left;
 }
 
-#about {
-    
-}
-
-#experience {
-    
-}
-
-#education {
-
+footer {
+    text-align: center;
 }
