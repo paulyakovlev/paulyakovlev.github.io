@@ -1,0 +1,47 @@
+body {
+    font-family: "Arial";
+    background-color: lightcoral;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(88, 123, 158);
+    padding: 8% 10% 8% 10%;
+    opacity: 5%;
+}
+
+.main-image {
+    border-radius: 50%;
+}
+
+h1 {
+    padding: 5px;
+}
+
+.section-title {
+    text-transform: uppercase;
+}
+
+.section {
+    text-align: center;
+    border-radius: 25px;
+    background-color: lightslategrey;
+    margin: 5% 25% 5% 25%;
+    padding: 2% 3% 2% 3%;
+}
+
+ul {
+    text-align: left;
+}
+
+#about {
+    
+}
+
+#experience {
+    
+}
+
+#education {
+
+}
